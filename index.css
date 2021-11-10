@@ -1,0 +1,167 @@
+nav>div>h2>span{
+    color: blue;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    background-color: white;
+    
+}
+ul{
+    list-style: none;
+       
+}
+li{
+    display: inline-block;
+    padding-right: 70px;
+    
+}
+.request button{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    vertical-align: middle;
+    margin-top:15px;
+    border: 2px blue;
+}
+.header1{
+    text-align: center;
+    background-image: url(images/bg.png);
+    background-size: cover;
+    height: 500px;
+    color: white;
+    padding-top: 60px;
+}
+.button1{
+    display: inline-flex;
+    justify-content: space-around;
+    margin-right: 15px;
+}
+#button3 button{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    margin-top:15px;
+    border: 2px blue;
+}
+#button2 button{
+    width: 100px;
+    height: 30px;
+    background: transparent;
+    color: white;
+    margin-top:15px;
+    border: 2px solid white;
+    margin-left: 30px;
+}
+
+#box img{
+    height: 500px;
+
+}
+#box{
+    padding-left: 90px;
+    padding-top: 20px;
+}
+.aboutus{
+  
+  height: 500px;
+  display: flex;
+  padding-left: 70px;
+}
+.aboutus>div> button{
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    border: 2px blue;
+}
+#repair{
+    height: 600px;
+    text-align: center;
+    background-image: url(images/Rectangle\ 11.png);
+    background-size: cover;
+    color: white;
+    padding-top: 60px;
+}
+#repair>button{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    border: 2px blue;
+}
+.services{
+    display: flex;
+    justify-content: space-evenly;
+    height: 450px;
+}
+.container h1{
+    text-align: center;
+}
+#airplane{
+    height: 400px;
+    box-shadow: 0 0 5px 0px grey;
+    border-radius: 5px;
+}
+#airplane img{
+    height: 200px;
+}
+#airplane>h3{
+    padding-left: 30px;
+}
+#airplane p{
+    padding-left: 30px;
+}
+footer{
+
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 80px;
+    border-bottom: 2px solid;
+}
+footer button{
+    width: 170px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    border: 2px blue;
+    padding-left: auto;
+
+}
+.contact{
+    color: white;
+}
+.form{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    float: right;
+    border: 2px solid;
+    padding-left: 40px;
+    line-height: 40px;
+}
+    
+.foot{
+    height: 100px;
+    text-align: center;
+    background-color: blue;
+    border-top: 2px solid;
+    padding-top: 20px;
+}
+#username{
+    width: 350px;
+    height: 20px;
+}
+#email{
+    width: 350px;
+    height: 20px;
+}
+#message{
+    width: 350px;
+    height: 60px;
+}
